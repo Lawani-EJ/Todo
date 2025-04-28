@@ -41,7 +41,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 License
 This project is licensed under the MIT License.
 
-Acknowledgements
+### Acknowledgements
 The project design and idea were inspired by Example Todo App.
 Special thanks to [Name] for their guidance and support.
 Feel free to customize this README file according to your project's specific details and add any additional sections that might be relevant.
